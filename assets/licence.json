@@ -1,0 +1,16 @@
+[
+ {
+  "paths": ["cfg", "spawn_provider.gd"],
+  "licence": "MIT",
+  "author": "Christian Deacon",
+  "url": "https://github.com/zees-games/zz-ply-class-pack",
+  "title": "Class profiles (original work)"
+ },
+ {
+  "paths": ["skin_a", "skin_b", "skin_c", "skin_e", "skin_f", "skin_k"],
+  "licence": "CC0-1.0",
+  "author": "Kenney",
+  "url": "https://kenney.nl/assets/blocky-characters",
+  "title": "Blocky Characters (referenced by id, shipped by game-zombie-zone, not vendored here)"
+ }
+]

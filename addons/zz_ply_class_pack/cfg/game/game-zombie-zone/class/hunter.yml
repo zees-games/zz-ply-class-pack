@@ -1,0 +1,11 @@
+name: Hunter
+description: Carries a rifle and goes looking for the horde.
+health: 100
+speed: 1.03
+loadout: zz_m4,zz_knife
+selectable: true
+extra:
+  models: [skin_a, skin_k]
+  model_mode: select
+  persona: hunter
+  bot_weight: 1

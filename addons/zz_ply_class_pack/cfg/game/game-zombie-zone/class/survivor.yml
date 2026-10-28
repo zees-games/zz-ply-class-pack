@@ -1,0 +1,11 @@
+# The default class: what Zombie Zone's survivors were before classes. Health 100 is the game's max_health.
+name: Survivor
+description: Balanced. Every person model, drawn at random each spawn.
+health: 100
+speed: 1.0
+selectable: true
+extra:
+  models: [skin_a, skin_b, skin_c, skin_e, skin_f, skin_k]
+  model_mode: random
+  persona: balanced
+  bot_weight: 2

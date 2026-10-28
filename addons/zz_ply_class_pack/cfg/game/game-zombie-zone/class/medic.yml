@@ -1,0 +1,13 @@
+name: Medic
+description: Quick on foot and slow to tire; lighter armed. Stand-ins of this class support the team.
+health: 90
+speed: 1.04
+stamina_drain: 0.16
+stamina_recover: 0.2
+loadout: zz_pistol,zz_knife
+selectable: true
+extra:
+  models: [skin_c, skin_f]
+  model_mode: random
+  persona: medic
+  bot_weight: 1

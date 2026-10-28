@@ -1,0 +1,11 @@
+name: Looter
+description: A revolver and an eye for what is lying about; stand-ins of this class gather loot.
+health: 95
+speed: 1.02
+loadout: zz_revolver,zz_knife
+selectable: true
+extra:
+  models: [skin_e, skin_c, skin_f]
+  model_mode: random
+  persona: looter
+  bot_weight: 1

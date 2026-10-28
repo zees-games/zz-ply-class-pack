@@ -1,0 +1,15 @@
+name: Scout
+description: Fast and fragile with a submachine gun; tires on a long sprint.
+health: 80
+speed: 1.1
+sprint_speed_scale: 1.3
+stamina_drain: 0.26
+stamina_recover: 0.18
+jump_scale: 1.1
+loadout: zz_smg,zz_knife
+selectable: true
+extra:
+  models: [skin_b, skin_e]
+  model_mode: select
+  persona: scout
+  bot_weight: 1

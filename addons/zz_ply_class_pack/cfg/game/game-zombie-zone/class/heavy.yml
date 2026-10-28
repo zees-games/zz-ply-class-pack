@@ -1,0 +1,14 @@
+name: Heavy
+description: Slow and hard to knock back, with a shotgun. Holds a choke.
+health: 140
+speed: 0.9
+stamina_drain: 0.26
+knockback_scale: 0.6
+mass: 110
+loadout: zz_shotgun,zz_knife
+selectable: true
+extra:
+  models: [skin_k]
+  model_mode: first
+  persona: warden
+  bot_weight: 1
