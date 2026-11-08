@@ -1,0 +1,72 @@
+{
+    "schema": 1,
+    "title": "My Player/Bot Class Pack",
+    "kinds": [
+        "class"
+    ],
+    "games": [
+        "gamemann/game-zombie-zone"
+    ],
+    "entries": [
+        {
+            "kind": "class",
+            "id": "heavy",
+            "name": "Heavy",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/heavy.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        },
+        {
+            "kind": "class",
+            "id": "hunter",
+            "name": "Hunter",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/hunter.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        },
+        {
+            "kind": "class",
+            "id": "looter",
+            "name": "Looter",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/looter.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        },
+        {
+            "kind": "class",
+            "id": "medic",
+            "name": "Medic",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/medic.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        },
+        {
+            "kind": "class",
+            "id": "scout",
+            "name": "Scout",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/scout.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        },
+        {
+            "kind": "class",
+            "id": "survivor",
+            "name": "Survivor",
+            "def": "addons/zz_ply_class_pack/cfg/game/game-zombie-zone/class/survivor.yml",
+            "meta": {
+                "game": "game-zombie-zone",
+                "spawn_provider": "addons/zz_ply_class_pack/spawn_provider.gd"
+            }
+        }
+    ]
+}
