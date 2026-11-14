@@ -1,5 +1,3 @@
-# zz-ply-class-pack
-
 Player and bot classes for Zombie Zone, as [dot-player-class](https://github.com/modcommunity/dot-player-class) profiles. The pack is data only: six classes, each with health, speed, sprint and stamina, a loadout, a bot persona and one or more person models.
 
 | Class | Loadout |
