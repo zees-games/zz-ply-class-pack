@@ -3,7 +3,7 @@ config_version=5
 [application]
 
 config/name="zz-ply-class-pack"
-config/description="Player and stand-in classes for Zombie Zone, as dot-player-class profiles."
+config/description="Player and stand-in classes for Zombie Zone, as gs-player-class profiles."
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 

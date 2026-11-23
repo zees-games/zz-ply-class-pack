@@ -1,6 +1,6 @@
 ![Player Classes banner](https://raw.githubusercontent.com/zees-games/zz-ply-class-pack/main/docs/banner.png)
 
-Player and bot classes for Zombie Zone, as [dot-player-class](https://github.com/gamespice-platform/player-class) profiles. The pack is data only: six classes, each with health, speed, sprint and stamina, a loadout, a bot persona and one or more person models.
+Player and bot classes for Zombie Zone, as [gs-player-class](https://github.com/gamespice-platform/player-class) profiles. The pack is data only: six classes, each with health, speed, sprint and stamina, a loadout, a bot persona and one or more person models.
 
 | Class | Loadout |
 | --- | --- |
